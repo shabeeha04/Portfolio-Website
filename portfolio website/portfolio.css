@@ -1,0 +1,142 @@
+    body {
+        /* margin: 0px; */
+        /* padding: 0px; */
+    }
+    
+    .first-sec {
+        background-image: url("building.jpeg");
+        background-position: center;
+        background-size: cover;
+        height: 500px;
+        width: 100%;
+    }
+    
+    .name-head2 {
+        color: rgb(226, 78, 19);
+    }
+    
+    .border-head {
+        border: 2px solid rgb(229, 236, 233);
+        width: 100px;
+        height: 100px;
+    }
+    
+    .second-sec {
+        height: 685px;
+        background-color: rgb(165, 155, 155);
+    }
+    
+    #ficons {
+        color: rgb(226, 78, 19);
+        font-size: 30px;
+    }
+    
+    #picture {
+        margin-top: -100px;
+    }
+    
+    .head3 {
+        color: brown;
+    }
+    
+    .third-sec {
+        height: 600px;
+    }
+    
+    #images {
+        opacity: 0.7;
+    }
+    
+    #icons {
+        font-size: 50px;
+        color: rgb(221, 155, 13);
+    }
+    
+    .html-head {
+        padding-left: -100px;
+    }
+    
+    .fourth-div {
+        height: 500px;
+        background-color: rgb(165, 155, 155);
+    }
+    /* #division {
+    background-color: yellow; */
+    
+    .fifth-div {
+        height: 400px;
+        background: #e52f37;
+    }
+    
+    li a {
+        color: white;
+    }
+    
+    li a:hover {
+        color: rgb(226, 78, 19);
+    }
+    
+    #video-play {
+        transition: width 8s, height 15s;
+    }
+    
+    #video-play:hover {
+        width: 600px;
+        height: 400px;
+    }
+    
+    .project-head {
+        color: white;
+    }
+    
+    .diamond-title {
+        font-size: 16px;
+        font-weight: 400;
+        color: #fff;
+    }
+    
+    .facts-numbers {
+        font-size: 28px;
+        line-height: 40px;
+        font-weight: 600;
+        font-style: normal;
+        color: #fff;
+    }
+    
+    #project-icons {
+        color: rgb(236, 226, 222);
+        font-size: 50px;
+    }
+    
+    .footer {
+        background-color: #f9f9f9;
+    }
+    
+    .footer-text {
+        color: rgb(226, 78, 19);
+    }
+    /* .main-nav { */
+    /* background-color: grey;
+    /* width: 100%; */
+    /* border: 2px solid #5f615f; */
+    /* top: 0; */
+    /* position: sticky;
+} */
+    
+    .main-nav {
+        position: fixed;
+        width: 100%;
+        top: 0;
+        padding: 5px;
+        background-color: #969090;
+        border: 0px solid #0d0e0d;
+    }
+    
+    #pic {
+        opacity: 0.7;
+    }
+    
+    .f-para {
+        color: white;
+        font-weight: 30px;
+    }
